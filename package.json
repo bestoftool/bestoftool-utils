@@ -1,0 +1,23 @@
+{
+  "name": "bestoftool-utils",
+  "version": "1.0.0",
+  "description": "Privacy-focused JSON utilities and converters. 100% client-side logic for developers who value data security.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "converter",
+    "privacy",
+    "developer-tools",
+    "bestoftool"
+  ],
+  "author": "BestOfTool Team",
+  "license": "MIT",
+  "homepage": "https://bestoftool.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bestoftool/bestoftool-utils"
+  }
+}

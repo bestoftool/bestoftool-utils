@@ -1,5 +1,5 @@
 {
-  "name": "bestoftool-utils",
+  "name": "@bestoftool/utils",
   "version": "1.0.0",
   "description": "Privacy-focused JSON utilities and converters. 100% client-side logic for developers who value data security.",
   "main": "index.js",
@@ -18,6 +18,6 @@
   "homepage": "https://bestoftool.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bestoftool/bestoftool-utils"
+    "url": "git+https://github.com/bestoftool/bestoftool-utils.git"
   }
 }
